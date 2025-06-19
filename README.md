@@ -74,6 +74,10 @@ Data: CSVs, Embeddings, Images
 Due to GitHub's 100MB file limit, large data and embedding files are not included in this repository.
 
 
+
+https://github.com/user-attachments/assets/511647d2-5a23-4da8-95fc-2cee33f0b66e
+
+
 ---
 
 For questions or issues, contact the project owner.
